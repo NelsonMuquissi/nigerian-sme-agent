@@ -31,7 +31,7 @@ venv\Scripts\activate     # Windows
 Install dependencies:pip install reportlab requests python-dotenv
 
 
-Create a .env file in the project root and add your Grok API key:GROK_API_KEY=your-api-key-here
+Create a .env file in the project root and add your Grok API key:
 
 
 
